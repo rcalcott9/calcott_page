@@ -1,6 +1,7 @@
-title: My Jekyll Site
-description: A simple Jekyll website hosted on GitHub Pages
+title: Rachel Calcott
+description: Personal website of Rachel Calcott
 theme: minima
+author: Rachel Calcott
 
 # Build settings
 markdown: kramdown
