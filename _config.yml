@@ -1,8 +1,6 @@
 title: My Jekyll Site
 description: A simple Jekyll website hosted on GitHub Pages
 theme: minima
-baseurl: "/calcott_page"
-url: "https://rcalcott9.github.io"
 
 # Build settings
 markdown: kramdown
