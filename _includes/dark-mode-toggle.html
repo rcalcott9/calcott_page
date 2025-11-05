@@ -1,0 +1,28 @@
+<button class="dark-mode-toggle" id="dark-mode-toggle" aria-label="Toggle dark mode">
+  <span id="toggle-icon">🌙</span>
+</button>
+
+<script>
+  // Check for saved theme preference or default to light mode
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  const toggleIcon = document.getElementById('toggle-icon');
+
+  if (currentTheme === 'dark') {
+    document.body.classList.add('dark-mode');
+    toggleIcon.textContent = '☀️';
+  }
+
+  // Toggle dark mode
+  document.getElementById('dark-mode-toggle').addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+
+    // Update icon and save preference
+    if (document.body.classList.contains('dark-mode')) {
+      toggleIcon.textContent = '☀️';
+      localStorage.setItem('theme', 'dark');
+    } else {
+      toggleIcon.textContent = '🌙';
+      localStorage.setItem('theme', 'light');
+    }
+  });
+</script>
