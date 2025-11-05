@@ -14,17 +14,30 @@ Some other things I like: playing the bass guitar. trying to make sushi. running
 
 ## Representative Publications
 
-1. **Publication Title Here** (Year)
-   Authors
-   *Journal/Conference Name*
-   [[Paper]](#) [[Code]](#) [[Project Page]](#)
+**Social Norms as Reinforcement: A Value Shaping Model of Moral Learning** (2025)
+Calcott, R. & Cushman, F
+*Preprint*
+[[Paper]](https://osf.io/62mxj)
 
-2. **Another Publication Title** (Year)
-   Authors
-   *Journal/Conference Name*
-   [[Paper]](#) [[Code]](#)
+**Empirical Evidence for Reflective Equilibrium in Moral Judgments** (2025)
+Calcott, R. & Cushman, F
+*Preprint*
+[[Paper]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5087802)
 
-3. **Third Publication Title** (Year)
-   Authors
-   *Journal/Conference Name*
-   [[Paper]](#) 
+**MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes** (2025)
+Chiu, Y.Y., Lee, M., Calcott, R. ... Sydney Levine
+*Preprint*
+[[Paper]](https://arxiv.org/abs/2510.16380) [[Website]](https://morebench.github.io)
+
+**Model Evaluations Need Rigorous Human Baselines** (2025)
+Wei, K., Paskov, P. ... Calcott, R., Coxon, E.
+*ICML*
+[[Paper]](https://openreview.net/forum?id=gwhPvu97Gm)
+
+**Relational Morality in Psychology and Philosophy: Past, Present, and Future** (2024)
+Earp, B.D., Calcott, R., Reinecke, M., Everett, J.
+*Handbook of Ethics and Social Psychology*
+[[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X-wTDE4AAAAJ&citation_for_view=X-wTDE4AAAAJ:qjMakFHDy7sC) 
+
+
+
