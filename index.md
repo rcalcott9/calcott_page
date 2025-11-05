@@ -2,17 +2,12 @@
 layout: home
 ---
 
-# Welcome to My Jekyll Site
+![Rachel Calcott](/calcott_page/assets/photo.png)
 
-This is a simple Jekyll website hosted on GitHub Pages.
+Hi! I'm Rachel
 
-## Getting Started
+I'm a third year PhD student studying moral cognition at Harvard, advised by Fiery Cushman. 
 
-You can edit this page by modifying `index.md` in your repository.
+I’m interested in how humans learn what's 'right' and 'wrong', and how these moral values are adjusted over time. I study how people learn from thought experiments (such as reflective equilibrium), how they learn from other humans, and how they learn from AI. To do this, I use behavioral and computational methods, and talk to strangers about their moral values on the subway. 
 
-## Features
-
-- Clean, simple design
-- Markdown support
-- Easy to customize
-- Free hosting with GitHub Pages
+Some other things I like: playing the bass guitar. trying to make sushi. running along the charles. hosting tea parties. reading and writing science fiction. 
