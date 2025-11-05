@@ -75,3 +75,12 @@ body.dark-mode .dark-mode-toggle {
 body.dark-mode .dark-mode-toggle:hover {
   background-color: #ddd;
 }
+
+/* Profile photo styling */
+img[alt="Rachel Calcott"] {
+  float: right;
+  width: 200px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
