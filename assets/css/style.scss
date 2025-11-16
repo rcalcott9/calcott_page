@@ -79,7 +79,7 @@ body.dark-mode .dark-mode-toggle:hover {
 /* Profile photo styling */
 img[alt="Rachel Calcott"] {
   float: right;
-  width: 200px;
+  max-width: 100%;
   margin-left: 20px;
   margin-bottom: 20px;
   border-radius: 10px;
