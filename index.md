@@ -9,9 +9,10 @@ Hi! I'm Rachel.
 I'm a third year PhD student studying moral cognition at Harvard, advised by Fiery Cushman. 
 
 I'm interested in how minds learn what's 'right' and 'wrong', how we update our own and others' moral values, and how values culturally evolve over time. I study how people learn from thought experiments, how they learn from other humans, and how they learn from AI. To do this, I use behavioral and computational methods, and talk to strangers about their moral values on the subway. 
+
 Some other things I like: playing the bass guitar, trying to make sushi, running along the Charles, reading and writing science fiction.
 
-I love hearing from new people. You can schedule a meeting with me [here](https://calendar.app.google/BbNskPcYvtXZPTMt6), or reach out to me at rcalcott@g.harvard.edu.
+I also love hearing from new people. You can schedule a meeting with me [here](https://calendar.app.google/BbNskPcYvtXZPTMt6), or reach out to me at rcalcott@g.harvard.edu.
 
 <br><br><br>
 
@@ -44,7 +45,7 @@ Earp, B. D., Mann, S. P., ... **Calcott, R.**, ... & Clark, M. S.<br>
 
 **Relational Morality in Psychology and Philosophy: Past, Present, and Future**<br>
 Earp, B.D., **Calcott, R.**, Reinecke, M., Everett, J.<br>
-*Handbook of Ethics and Social Psychology* (2024) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X-wTDE4AAAAJ&citation_for_view=X-wTDE4AAAAJ:qjMakFHDy7sC) 
+*Handbook of Ethics and Social Psychology* (2024) [[Paper]](https://www.researchgate.net/profile/Brian-Earp-2/publication/384444225_Relational_Morality_in_Psychology_and_Philosophy_Past_Present_and_Future/links/67cc5686cc055043ce6f54a9/Relational-Morality-in-Psychology-and-Philosophy-Past-Present-and-Future.pdf) 
 
 
 ## Previous lives
