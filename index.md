@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/photo.png" alt="Rachel Calcott" width="550">
+<img src="/assets/photo.png" alt="Rachel Calcott" width="1100">
 
 Hi! I'm Rachel.
 
