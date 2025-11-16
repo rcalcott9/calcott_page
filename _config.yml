@@ -7,3 +7,4 @@ author: Rachel Calcott
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
