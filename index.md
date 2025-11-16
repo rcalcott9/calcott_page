@@ -13,8 +13,6 @@ Some other things I like: playing the bass guitar, trying to make sushi, running
 
 I love hearing from new people. You can schedule a meeting with me [here](https://calendar.app.google/BbNskPcYvtXZPTMt6), or reach out to me at rcalcott@g.harvard.edu.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## Representative Publications
 
 **MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes**<br>
