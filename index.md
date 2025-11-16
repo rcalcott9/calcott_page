@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="/assets/photo.png" alt="Rachel Calcott" width="300">
+<img src="/assets/photo.png" alt="Rachel Calcott" width="450">
 
 Hi! I'm Rachel.
 
@@ -12,6 +12,8 @@ I'm interested in how minds learn what's 'right' and 'wrong', how we update our 
 Some other things I like: playing the bass guitar, trying to make sushi, running along the Charles, reading and writing science fiction.
 
 I love hearing from new people. You can schedule a meeting with me [here](https://calendar.app.google/BbNskPcYvtXZPTMt6), or reach out to me at rcalcott@g.harvard.edu.
+
+<br><br><br>
 
 ## Representative Publications
 
