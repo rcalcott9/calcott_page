@@ -47,7 +47,13 @@ Earp, B.D., **Calcott, R.**, Reinecke, M., Everett, J.<br>
 *Handbook of Ethics and Social Psychology* (2024) [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X-wTDE4AAAAJ&citation_for_view=X-wTDE4AAAAJ:qjMakFHDy7sC) 
 
 
+## Previous lives
+
+Before becoming a cognitive scientist, I worked as a horseback safari guide, reported on COVID-19 vaccine distribution for Texas Monthly Magazine, volunteered as a rainforest reforester in the Sabah region of Borneo, and worked as an english teacher at a high school in Bishkek, Kyrgyzstan. 
+
 ## Teaching
 
 (Harvard) PSYC 1901 Methods in Experimental Psychology: Teaching Fellow, Fall '25
+
+
 
