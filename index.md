@@ -24,7 +24,7 @@ Chiu, Y.Y., Lee, M., **Calcott, R.** ... Sydney Levine<br>
 
 **Social Norms as Reinforcement: A Value Shaping Model of Moral Learning**<br>
 **Calcott, R.** & Cushman, F.<br>
-*Proceedings of the Annual Meeting of the Cognitive Science Society* (2025) [[Paper]](https://escholarship.org/uc/item/024054w8)
+*Proceedings of the Annual Meeting of the Cognitive Science Society* (2025) [[Abstract]](https://escholarship.org/uc/item/024054w8)
 
 **Empirical Evidence for Reflective Equilibrium in Moral Judgments**<br>
 **Calcott, R.** & Cushman, F.<br>
