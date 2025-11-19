@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Rachel Calcott
 ---
 
 <img src="/assets/photo.png" alt="Rachel Calcott" width="420">
