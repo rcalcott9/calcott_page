@@ -48,10 +48,6 @@ Earp, B.D., **Calcott, R.**, Reinecke, M., Everett, J.<br>
 *Handbook of Ethics and Social Psychology* (2024) [[Paper]](https://www.researchgate.net/profile/Brian-Earp-2/publication/384444225_Relational_Morality_in_Psychology_and_Philosophy_Past_Present_and_Future/links/67cc5686cc055043ce6f54a9/Relational-Morality-in-Psychology-and-Philosophy-Past-Present-and-Future.pdf) 
 
 
-## Previous lives
-
-Before beginning my PhD, I worked as a horseback safari guide, reported on COVID-19 vaccine distribution for Texas Monthly Magazine, volunteered as a rainforest reforester in the Sabah region of Borneo, and worked as an english teacher at a high school in Bishkek, Kyrgyzstan. 
-
 ## Teaching
 
 (Harvard) PSYC 1901 Methods in Experimental Psychology: Teaching Fellow, Fall '25
