@@ -3,7 +3,7 @@ layout: home
 title: Rachel Calcott
 ---
 
-<img src="/assets/photo.png" alt="Rachel Calcott" width="420">
+<img src="/assets/photo.png" alt="Rachel Calcott" width="400">
 
 Hi! I'm Rachel.
 
@@ -50,7 +50,7 @@ Earp, B.D., **Calcott, R.**, Reinecke, M., Everett, J.<br>
 
 ## Tools 
 
-Here's a tool I built for managing and storing empirical data: [[Research-Pipeline]](https://github.com/rcalcott9/research-pipeline.git)
+Here's a tool I built for managing and storing data: [[Research-Pipeline]](https://github.com/rcalcott9/research-pipeline.git)
 
 ## Teaching
 
