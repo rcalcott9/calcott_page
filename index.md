@@ -8,9 +8,9 @@ Hi! I'm Rachel.
 
 I'm a third year PhD student studying moral cognition at Harvard, advised by Fiery Cushman. 
 
-I'm interested in how minds learn what's 'right' and 'wrong', how we update our own and others' moral values, and how values culturally evolve over time. I study how people learn from thought experiments, how they learn from other humans, and how they learn from AI. To do this, I use behavioral and computational methods, and talk to strangers about their moral values on the subway. 
+I'm interested in how minds develop normative beliefs and values, how we update our own and others' moral values, and how values culturally evolve over time. I study how people learn from thought experiments, how they learn from other humans, and how they learn from AI. To do this, I use behavioral and computational methods, and talk to strangers about their moral values on the subway. 
 
-Some other things I like: playing the bass guitar, trying to make sushi, running along the Charles, reading and writing science fiction.
+Some other things I like: playing the bass guitar, trying to make sushi, running along the Charles river, reading and writing science fiction.
 
 I also love hearing from new people. You can schedule a meeting with me [here](https://calendar.app.google/BbNskPcYvtXZPTMt6), or reach out to me at rcalcott@g.harvard.edu.
 
